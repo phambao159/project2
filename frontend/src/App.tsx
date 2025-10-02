@@ -61,7 +61,6 @@ function App(): JSX.Element {
 
   const getMember = async (page: number = 1) => {
     try {
-      // chuyển filter boolean -> string cho query
       if (!token) {
         console.log("Chưa có token, không fetch API");
         return;
