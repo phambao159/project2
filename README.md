@@ -16,4 +16,4 @@ docker-compose up --build -d
 ## Go to web : http://localhost:3000/login
 ## Login with 
 - username : phambao159  
-- password : Giabao150920.
+- password : giabao150920
